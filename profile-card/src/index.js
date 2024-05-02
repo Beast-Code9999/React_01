@@ -34,9 +34,9 @@ function Skillset() {
   return (
     <div className='skill-list'>
       <Skill skill="React" emoji="💪" color="#58c4dc"/>
-      <Skill skill="HTML" emoji="💪"/>
-      <Skill skill="CSS" emoji="💪"/>
-      <Skill skill="JavaScript" emoji="💪"/>
+      <Skill skill="HTML" emoji="💪" color="#c45534"/>
+      <Skill skill="CSS" emoji="💪" color="#3f4dd4"/>
+      <Skill skill="JavaScript" emoji="💪" color="#e8d850"/>
     </div>
   )
 }
